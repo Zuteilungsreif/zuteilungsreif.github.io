@@ -66,13 +66,13 @@ paginate_path:         /blog/page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          rgb(208,208,208)
+accent_image:          none
+accent_color:          rgb(180, 180, 180)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(208,208,208)
+theme_color:           rgb(180, 180, 180)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
