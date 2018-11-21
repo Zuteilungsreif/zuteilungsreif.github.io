@@ -17,4 +17,5 @@ Files of importance:
 - Folder: _projects - one .md file for every publishment (project)
 - Folder: _posts - one .md file for every post (with right title formatting)
 - Folder: _featured_categories - one .md file for every category (corresponding with the category defined in a post)
-
+- Folder: assets/img - place to put imagery in so it can be used in blog posts and such.
+- Folder: assets/video - place to put video files in so it can be used in blog posts and such.

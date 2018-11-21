@@ -335,9 +335,6 @@ $$
 Instead, `aligned` should be used, e.g. `\begin{aligned} ... \end{aligned}`.
 {:.message}
 
-Continue with [Scripts](scripts.md){:.heading.flip-title}
-{:.read-more}
-
 
 [mm]: https://guides.github.com/features/mastering-markdown/
 [ksyn]: https://kramdown.gettalong.org/syntax.html
