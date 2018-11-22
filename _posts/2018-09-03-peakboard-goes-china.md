@@ -3,7 +3,7 @@ layout: post
 title: Peakboard goes China - Die Geschichte dahinter
 description: Peakboard goes China - Die Geschichte dahinter
 excerpt_separator: <!--more-->
-image: assets/img/blog/blog-layout.jpg
+image: assets/img/blog/example-content-ii.jpg
 categories: [peakboard, peakboard-goes-china]
 ---
 
