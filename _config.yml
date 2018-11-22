@@ -41,6 +41,7 @@ author:
     github:  zuteilungsreif
     linkedin: patrick-theobald-9aa598a
     instagram: peakboard
+    youtube: UCDSDWZgGbkup71_fsL8WCKw
     email: patrick.theobald@peakboard.com
 
 # This text will appear in a `<small>` tag in the footer of every page.
@@ -116,7 +117,7 @@ tinyletter: zuteilungsreif
 
 hydejack:
   # Configure the order of complementary content on blog posts
-  post_addons:         [newsletter, related, random]
+  post_addons:         [newsletter, related]
 
   # Configure the order of complementary content on project pages
   project_addons:      [newsletter, other]
