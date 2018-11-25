@@ -2,6 +2,7 @@ To-Do:
 - In _config.yml: 'description': description of website (~150 chars)
 - In _config.yml: 'tagline': text for sidebar if there should be any.
 - In _config.yml: 'keywords': Keywords for seo
+- Check 'files of importance' and change those pages according to your desire.
 
 Info:
 - email used: patrick.theobald@peakboard.com
