@@ -2,8 +2,6 @@ To-Do:
 - In _config.yml: description of website (~150 chars)
 - In _config.yml: Tagline for website (visible in sidebar) if there should be any.
 - In _config.yml: Keywords for seo
-- In _config.yml: Decide on accent_color (highlight for links)
-- Make logo/thumbnail/favicon and background
 
 Info:
 - email used: patrick.theobald@peakboard.com
