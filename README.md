@@ -1,7 +1,7 @@
 To-Do:
-- In _config.yml: description of website (~150 chars)
-- In _config.yml: Tagline for website (visible in sidebar) if there should be any.
-- In _config.yml: Keywords for seo
+- In _config.yml: 'description': description of website (~150 chars)
+- In _config.yml: 'tagline': text for sidebar if there should be any.
+- In _config.yml: 'keywords': Keywords for seo
 
 Info:
 - email used: patrick.theobald@peakboard.com
