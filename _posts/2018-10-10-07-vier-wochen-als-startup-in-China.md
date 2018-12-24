@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Peakboard goes China - Vier Wochen als Startup in China - Was bleibt?
-description: Peakboard goes China - Vier Wochen als Startup in China - Was bleibt?
+title: Vier Wochen als Startup in China - Was bleibt?
+description: Vier Wochen als Startup in China - Was bleibt?
 excerpt_separator: <!--more-->
-categories: [peakboard, peakboard-goes-china]
+categories: [peakboard-goes-china]
 ---
 
 Während ich diese Zeile schreibe schießt der Lufthansa Airbus LH 729 in 38000 Fuß über die russischen Einöde hinweg zurück nach Frankfurt. Vier Wochen DC-Hub in Shanghai liegen hinter mir. 
