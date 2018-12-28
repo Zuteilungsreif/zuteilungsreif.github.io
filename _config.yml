@@ -103,6 +103,10 @@ defaults:
     values:
       seo:
         type:          WebPage
+  - scope:
+      path:            ""
+    values:
+      hide_description: true
 
 
 # 3rd Party Integrations
