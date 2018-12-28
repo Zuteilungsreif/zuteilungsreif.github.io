@@ -30,5 +30,5 @@ Drei elementare Tipps möcht ich nochmal abschließend allen auf den Weg geben, 
 Ich habe als reiner Softwareentwickler von Elektronikentwicklung keine Ahnung. Das war vermutlich ein Mitgrund, warum mein China-Aufenthalt so lange gedauert, und so viele finanzielle Ressourcen verschlungen hat. Ich kann allen Software-Leuten da draußen aber nur raten, sich einmal an einem Elektronik-Projekt zu versuchen. Man lernt jeden Tag etwas Neues…
 
 <div class="video-container">
-    <iframe src="https://www.youtube.com/watch?v=onLjR755c4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/onLjR755c4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

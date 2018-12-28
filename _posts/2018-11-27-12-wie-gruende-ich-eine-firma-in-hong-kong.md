@@ -21,5 +21,5 @@ Leider funktioniert nur die Firmengründung aus der Ferne. Das gilt nicht für d
 Rückwirkend muss ich sagen, war die Firmengründung nicht besonders kompliziert, da die Agentur mit viel Erfahrung die Hauptarbeit erledigt hat. Abschließend möchte ich noch eine Warnung mit auf den Weg geben: Überlegt euch sehr genau vorher, was die Aufgabe eurer zu gründenden Firma sein wird und wie der Geld- und Warentransfer zwischen der deutschen und der chinesischen Gesellschaft funktionieren soll. Es kann schnell passieren, dass solche Aktionen vom deutschen Finanzamt als Steuerhinterziehung interpretiert werden. Ansonsten kann ich nur alle Leser zum Experimentieren ermutigen!
 
 <div class="video-container">
-    <iframe src="https://www.youtube.com/watch?v=3xEfmUHe4cA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/3xEfmUHe4cA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
