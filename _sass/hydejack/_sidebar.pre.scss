@@ -72,17 +72,21 @@ hy-drawer {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: rgba(255, 255, 255, .75);
+  color: #000000;
   text-align: center;
   z-index: 2;
   min-height: 100vh;
   // >>>
 
   a {
-    color: #fff; // inline
+    color: #000000; // inline
     border-bottom-color: rgba(255, 255, 255, 0.2); // inline
-    &:hover { border-bottom-color: #fff; } // link
+    &:hover { border-bottom-color: rgba(255, 255, 255, 0.2); } // link
   }
+}
+
+.sidebar-social {
+  color: #000000; // inline
 }
 
 // <<<<< link
