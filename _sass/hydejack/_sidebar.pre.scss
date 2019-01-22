@@ -84,10 +84,10 @@ hy-drawer {
     border-bottom-color: rgba(255, 255, 255, 0.2); // inline
     &:hover { border-bottom-color: rgba(255, 255, 255, 0.2); } // link
   }
-}
 
-.sidebar-social {
-  color: #FFFFFF; // inline
+  .icon {
+    color: #FFFFFF; // inline
+  }
 }
 
 // <<<<< link
